@@ -1,10 +1,8 @@
 <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 
-
-<amp-ad width="100vw" height="320"
      type="adsense"
-     data-ad-client="ca-pub-3595135128265095"
-     data-ad-slot="4962597859"
+     data-ad-client="ca-pub-"
+     data-ad-slot="L"
      data-auto-format="rspv"
      data-full-width="">
   <div overflow=""></div>
